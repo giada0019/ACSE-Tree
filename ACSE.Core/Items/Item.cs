@@ -126,7 +126,7 @@ namespace ACSE.Core.Items
 
         public Furniture(ushort itemId) : base(itemId)
         {
-            if (Save.SaveInstance.SaveGeneration == SaveGeneration.N3DS)
+            if (Save.SaveInstance.SaveGeneration == SaveGeneration.3DS)
             {
                 BaseItemId = itemId;
                 Rotation = 0;
@@ -150,7 +150,7 @@ namespace ACSE.Core.Items
 
         public Furniture(ushort item, byte flag1, byte flag2) : base(item, flag1, flag2)
         {
-            if (Save.SaveInstance.SaveGeneration == SaveGeneration.N3DS)
+            if (Save.SaveInstance.SaveGeneration == SaveGeneration.3DS)
             {
                 BaseItemId = ItemId;
                 Rotation = (Flag1 >> 4) / 4;
@@ -168,7 +168,7 @@ namespace ACSE.Core.Items
 
         public Furniture(Item item) : base (item)
         {
-            if (Save.SaveInstance.SaveGeneration == SaveGeneration.N3DS)
+            if (Save.SaveInstance.SaveGeneration == SaveGeneration.3DS)
             {
                 BaseItemId = ItemId;
                 Rotation = (Flag1 >> 4) / 4;
