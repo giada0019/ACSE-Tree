@@ -1439,7 +1439,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Villagers.jpg">
+    <None Include="Resources\Villagers.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>
@@ -1449,7 +1449,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="ACSE_Logo_2.ico" />
+    <Content Include="ACSE.ico" />
     <Content Include="Resources\AC_Acres_en.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
@@ -1459,7 +1459,7 @@
     <Content Include="Resources\AC_Map_Icon_Index.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Resources\AC_Villagers_en.txt">
+    <Content Include="Resources\DX_Villagers_en.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="Resources\CF_Acres_en.txt">
