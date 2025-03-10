@@ -33,17 +33,17 @@ namespace ACSE.Core.Saves
         Unknown,
         N64,
         iQue,
-        GCN,
-        NDS,
+        GC,
+        DS,
         Wii,
-        N3DS,
+        3DS,
         Switch
     }
 
     public enum Region : byte
     {
         Unknown,
-        Japan,
+        NTSCJapan,
         NTSC,
         PAL,
         Australia,
