@@ -40,7 +40,7 @@
 * Pattern Editing
 
 ## Extracting Save Files
-If you don't know how to get your save file, read the documentation here: https://github.com/Cuyler36/ACSE/wiki/Extracting-Save-Files
+If you don't know how to get your save file, read the documentation here: https://github.com/Cuyler36/ACSE/wiki/Extracting-Save-Files or https://github.com/giada0019/ACSE-Tree/wiki/Save-Data
 
 ## Screenshots
 
