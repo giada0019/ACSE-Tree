@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ACSE")]
+[assembly: AssemblyTitle("ACDXSE")]
 [assembly: AssemblyDescription("A save editor for Animal Crossing main series games.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ACSE")]
-[assembly: AssemblyCopyright("©2018 Jeremy Olsen")]
+[assembly: AssemblyProduct("ACDXSE")]
+[assembly: AssemblyCopyright("©2018 Cuyler36")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
