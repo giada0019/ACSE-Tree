@@ -9,8 +9,7 @@
 ### ![iQP](https://i.imgur.com/kwQLeUJ.png) iQue Player
 * [Dòngwù Sēnlín](http://www.iquebrew.org/index.php?title=Animal_Crossing)
 ### ![GCN](https://i.imgur.com/CzocU2O.png) Nintendo GameCube
-* [Dōbutsu no Mori+](https://animalcrossing.fandom.com/wiki/D%C5%8Dbutsu_no_Mori%2B)
-* [Animal Crossing: Population Growing](https://animalcrossing.fandom.com/wiki/Animal_Crossing)
+* [Animal Crossing](https://animalcrossing.fandom.com/wiki/Animal_Crossing)
 * [Dōbutsu no Mori e+](https://animalcrossing.fandom.com/wiki/D%C5%8Dbutsu_no_Mori_e%2B)
 ### ![DS](https://i.imgur.com/36cZPqr.png) Nintendo DS
 * [Animal Crossing: Wild World](https://animalcrossing.fandom.com/wiki/Animal_Crossing:_Wild_World)
@@ -18,7 +17,6 @@
 * [Animal Crossing: City Folk](https://animalcrossing.fandom.com/wiki/Animal_Crossing:_City_Folk)
 ### ![N3DS](https://i.imgur.com/en3u576.png) Nintendo 3DS
 * [Animal Crossing: New Leaf](https://animalcrossing.fandom.com/wiki/Animal_Crossing%3A_New_Leaf)
-* [Animal Crossing: New Leaf - Welcome Amiibo](https://animalcrossing.fandom.com/wiki/Welcome_amiibo)
 
 ## Features
 * Player Editing
