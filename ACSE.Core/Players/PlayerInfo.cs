@@ -17,7 +17,7 @@ namespace ACSE.Core.Players
         public int TownNameSize;
         public int FaceType;
         public int Gender;
-        public int Tan;
+        public int skin;
         public int HairType;
         public int HairColor;
         public int EyeColor;
@@ -113,7 +113,7 @@ namespace ACSE.Core.Players
         public byte HairType;
         public byte HairColor;
         public byte FaceType;
-        public byte Tan;
+        public byte skin;
         public byte EyeColor;
         public byte ShoeColor; //CF only
         public Image TownPassCardImage;
@@ -167,7 +167,7 @@ namespace ACSE.Core.Players
             Patterns = -1, // No Patterns in DnM
             PatternCount = 8,
             PatternSize = 0x220, //Actual Size is 0x200, with the first 0x20 bytes for Name, then for palette & padding?
-            Tan = -1, // Confirm in-game (I don't think DnM has tans)
+            skin = -1, // Confirm in-game (I don't think DnM has skins)
             TownPassCardImage = -1,
             HairType = -1,
             Bed = -1,
@@ -222,7 +222,7 @@ namespace ACSE.Core.Players
             Patterns = 0xC40,
             PatternCount = 8,
             PatternSize = 0x220, //Actual Size is 0x200, with the first 0x20 bytes for Name, then for palette & padding?
-            Tan = 0x2348, // Confirm in-game
+            skin = 0x2348, // Confirm in-game
             TownPassCardImage = -1,
             HairType = -1,
             Bed = -1,
@@ -281,8 +281,8 @@ namespace ACSE.Core.Players
             Patterns = 0x1240,
             PatternCount = 8,
             PatternSize = 0x220, //Actual Size is 0x200, with the first 0x20 bytes for Name, then for palette & padding?
-            // Tan "Renew Time", Year-Month-Day
-            Tan = 0x23C8,
+            // skin "Renew Time", Year-Month-Day
+            skin = 0x23C8,
             TownPassCardImage = -1,
             HairType = -1,
             Bed = -1,
@@ -342,7 +342,7 @@ namespace ACSE.Core.Players
             Patterns = 0x11C0,
             PatternCount = 8,
             PatternSize = 0x220, //Actual Size is 0x200, with the first 0x20 bytes for Name, then for palette & padding?
-            Tan = 0x2348, // Confirm in-game
+            skin = 0x2348, // Confirm in-game
             TownPassCardImage = -1,
             HairType = -1,
             Bed = -1,
@@ -403,7 +403,7 @@ namespace ACSE.Core.Players
             Birthday = 0x2218,
             BirthdaySize = 2,
             HairType = 0x223C, //Upper Nibble is Hair Type, Lower Nibble is Face Type
-            HairColor = 0x223D, //Upper Nibble is Hair Color, Lower Nibble is Tan
+            HairColor = 0x223D, //Upper Nibble is Hair Color, Lower Nibble is skin
             Gender = 0x228A,
             Identifier = 0x2280,
             IdentifierSize = 2,
@@ -414,7 +414,7 @@ namespace ACSE.Core.Players
             TownName = 0x2278,
             TownNameSize = 8,
             //Have to use -1 to specify it doesn't exist..
-            Tan = -1,
+            skin = -1,
             FaceType = -1,
             TownPassCardImage = -1,
             Debt = -1,
@@ -467,7 +467,7 @@ namespace ACSE.Core.Players
             HairType = 0x840B,
             HairColor = 0x840C,
             ShoeColor = 0x8416,
-            Tan = 0x8418,
+            skin = 0x8418,
             Reset = 0x8670, // Just the second bit
             ResetSize = 1, // Actually just the second bit in the value
             TownPassCardImage = -1,
@@ -504,7 +504,7 @@ namespace ACSE.Core.Players
             HairColor = 5,
             FaceType = 6,
             EyeColor = 7,
-            Tan = 8,
+            skin = 8,
             Hat = 0xA,
             FaceItem = 0xE,
             Wetsuit = 0x12,
@@ -555,7 +555,7 @@ namespace ACSE.Core.Players
             HairColor = 5,
             FaceType = 6,
             EyeColor = 7,
-            Tan = 8,
+            skin = 8,
             Hat = 0xA,
             FaceItem = 0xE,
             Wetsuit = 0x16, // The shirt & wetsuit seem to switch postiions depending on if you're wearing both or not..
