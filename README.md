@@ -25,6 +25,7 @@
 	* Debt
 	* Pockets
 	* House
+        * Character
 * Acre Editing
 * Town Editing
 	* Items
@@ -34,8 +35,12 @@
 	* Villagers
 	* Personalities
 	* Catchphrases
+        * House
 * Grass Editing
+	* Season Editing
+	* Grass Patterns
 * Pattern Editing
+	* Import/Export Images
 
 ## Extracting Save Files
 If you don't know how to get your save file, read the documentation here: https://github.com/Cuyler36/ACSE/wiki/Extracting-Save-Files or https://github.com/giada0019/ACSE-Tree/wiki/Save-Data
@@ -54,6 +59,9 @@ If you don't know how to get your save file, read the documentation here: https:
 
 ![Island Editor](https://puu.sh/z7sBJ/ee594d941a.png)
 
+## Credits
+
+Thanks to ![Cuyler36](https://github.com/Cuyler36), ![Jhynjhiruu](https://github.com/Jhynjhiruu), ![Slattz](https://github.com/Slattz), ![JDrocks450](https://github.com/JDrocks450), ![Giada0019](https://github.com/Giada0019), and so many others.
 ![Grass Editor](https://puu.sh/z7sHw/b17685c530.png)
 
 ![Pattern Editor](https://puu.sh/z9jw5/e27a5abb19.png)
