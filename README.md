@@ -59,9 +59,26 @@ If you don't know how to get your save file, read the documentation here: https:
 
 ![Island Editor](https://puu.sh/z7sBJ/ee594d941a.png)
 
-## Credits
-
-Thanks to ![Cuyler36](https://github.com/Cuyler36), ![Jhynjhiruu](https://github.com/Jhynjhiruu), ![Slattz](https://github.com/Slattz), ![JDrocks450](https://github.com/JDrocks450), ![Giada0019](https://github.com/Giada0019), and so many others.
 ![Grass Editor](https://puu.sh/z7sHw/b17685c530.png)
 
 ![Pattern Editor](https://puu.sh/z9jw5/e27a5abb19.png)
+
+## Credits
+
+Thanks to ![Cuyler36](https://github.com/Cuyler36), ![Jhynjhiruu](https://github.com/Jhynjhiruu), ![Slattz](https://github.com/Slattz), ![JDrocks450](https://github.com/JDrocks450), ![Giada0019](https://github.com/Giada0019), and so many others.
+
+## Future Plans
+
+There aren't many plans that come to mind, but here are some
+	* Easier Deluxe Support
+ 	* ACCF Villager Support
+  	* Add a section for NES roms
+   	* ACNH Barebones Support
+    	* Happy Home Academy Support
+     	* amiibo Festival support
+      	* More Mod support, maybe HHP support?
+       	* 3D Acres, toggle as option but mostly work as option
+	* Higher Quality Villager photos
+ 	* Background SFX and Music
+  	* Dark Mode!
+   	* Add custom villagers using the E+ adder, but maybe for base game if C36 implements something
